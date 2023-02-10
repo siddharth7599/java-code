@@ -1,0 +1,17 @@
+what is Class and Object in java?
+
+In Java, a class is a blueprint or a template that defines the attributes and behaviors of an object. It acts as a blueprint for creating objects, providing initial values for state (member variables or attributes), and implementations of behavior (member functions or methods).
+
+An object is an instance of a class and is created at runtime. It represents a specific entity with its own state and behavior. Each object has its own set of instance variables, which are unique to that instance, and methods, which operate on those variables. Objects are created from classes, and the process of creating an object from a class is called instantiation.
+
+For example, if we have a class "Car", an object could be a specific car such as "Honda Civic". The "Car" class would define the attributes that are common to all cars, such as number of wheels, engine size, and so on. The "Honda Civic" object would have its own specific values for these attributes.
+
+
+
+What is jre jvm and jdk?
+
+JRE (Java Runtime Environment) is a software package that provides the minimum requirements for executing a Java application. It contains a Java Virtual Machine (JVM), class libraries, and other files that support the execution of Java programs.
+
+JVM (Java Virtual Machine) is an abstract computing machine that enables a computer to run a Java program. It acts as an intermediary between the program and the underlying hardware, interpreting the compiled Java code into machine-readable instructions.
+
+JDK (Java Development Kit) is a software development environment used for developing Java applications. It includes the JRE, development tools, and libraries needed to build Java applications. The JDK is a complete and standalone software development kit that provides everything you need to start developing Java applications.
